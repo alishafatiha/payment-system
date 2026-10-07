@@ -95,7 +95,8 @@ The app ships with two dummy wallets:
 | GET    | `/wallets/{id}/transactions` | Get transaction history       |
 
 ## Test Case Link
-[Kunjungi Google](https://google.com)
+[https://docs.google.com/spreadsheets/d/1TVWlkhWYHRl0UhZE2EduM1ptP28qKNA6abQXBtGZ-FQ/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1TVWlkhWYHRl0UhZE2EduM1ptP28qKNA6abQXBtGZ-FQ/edit?usp=sharing)
+
 
 
 
